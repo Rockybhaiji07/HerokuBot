@@ -1,4 +1,4 @@
-|[Repo को फोर्क करें।](https://github.com/0AIB/Auto-Forward-Bot/fork)
+|[Repo को फोर्क करें।](https://github.com)
 |---
 
 # चैनल ओटो फॉरवर्ड  
@@ -33,16 +33,15 @@ about - मेरे बारे में।
 ```
 
 ## लाइसेंस
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT/blob/main/LICENSE)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)]
 
 
 
 ###### [English](https://github.com/0AIB/Auto-Forward-Bot/blob/main/english.md)
 
-## श्रेय ओर इन सभी को धन्यवाद। ❤️
-[![say](https://img.shields.io/badge/say-धन्यवाद-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
-- [Dan](https://telegram.dog/haskell) for his pyrogram docs
-- [MaheshMalekar](https://telegram.dog/MaheshMalekar) ❤
+## श्रेय ओर इन सभी को धन्यवाद। ❤️)
+- [ROCKY](https://telegram.dog/OwnerRocky) for his pyrogram docs
+- [HEROKU TECH](https://telegram.dog/herokutech) ❤
 
 
   
